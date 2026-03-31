@@ -1,0 +1,6 @@
+patient_id,patient_name,phone,last_visit_date,total_no_shows
+1,John Smith,555-1111,3/1/2026,2
+2,Sarah Jones,555-2222,2/14/2026,0
+3,Michael Brown,555-3333,1/28/2026,3
+4,Alicia Davis,555-4444,3/10/2026,1
+5,David Wilson,555-5555,2/20/2026,2

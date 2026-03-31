@@ -1,0 +1,6 @@
+appointment_id,patient_id,appointment_date,status,procedure_type,estimated_value
+101,1,3/28/2026,No Show,Cleaning,150
+102,2,3/28/2026,Completed,Filling,250
+103,3,3/29/2026,Scheduled,Consult,100
+104,4,3/29/2026,No Show,Crown,900
+105,5,3/30/2026,No Show,Whitening,300
